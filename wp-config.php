@@ -46,7 +46,7 @@ define( 'DB_USER', 'web74_7' );
 define( 'DB_PASSWORD', 'web74_db7' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'https://s159.goserver.host/' );
+define( 'DB_HOST', 's159.goserver.host' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
